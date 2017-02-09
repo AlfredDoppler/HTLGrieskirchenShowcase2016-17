@@ -1,3 +1,4 @@
+https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/2DGameBuild/index.html
 # HTLGrieskirchenShowcase2016-17
 
 The projects in this repository are for demonstration purposes only. 
@@ -62,3 +63,6 @@ Undead Arcade (c) mkreuzmayr
 
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/WebGL/index.html
 
+Arkanoid Game (c) hakobian
+
+https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/2DGameBuild/index.html
