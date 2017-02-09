@@ -19,3 +19,7 @@ https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/
 
 SwimGoldfishSwim from Michael Duschek
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/SwimGoldfishSwim/index.html
+
+Singleplayer monster.io from Manuel Schlagintweit
+
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/singleplayer%20monster.io/index.html
