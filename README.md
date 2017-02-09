@@ -17,7 +17,10 @@ Projects of 2016/17
 MasterCart Multiplayer Car Race
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MasterCartMultiplayerWeb/index.html
 
-SwimGoldfishSwim from Michael Duschek
-https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/SwimGoldfishSwim/index.html
+
+MagicalJumpnRun by David Märzendorfer:
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MagicalJumpnRun/index.html 
+
+
 
 
