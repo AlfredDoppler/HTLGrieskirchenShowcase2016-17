@@ -146,5 +146,13 @@
         "author": "?",
         "year": "2017_SS",
         "status": 1
+    },
+    {
+        "title": "Just Another RPG",
+        "folder": "WebGL_JustAnotherRPG",
+        "author": "Philip Frauscher",
+        "year": "2017_SS",
+        "status": 1
     }
+    
 ]
