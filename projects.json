@@ -201,11 +201,21 @@
       "author": "Flavius Stoianov",
       "year": "2017_SS",
       "status": 0
-  },
-    "title": "Back to the Van",
-    "folder": "Back to the Van",
-    "author": "Manuel Schlagintweit",
-    "year": "2017_SS",
-    "status": "0"
-    }
+  } ,
+     {
+      "title": "Arkanoid Game Erweiterung",
+      "folder": "2DGameBuild ",
+      "author": "Zareh Hakobian",
+      "year": "2017_SS",
+      "status": 1
+  } 
+    ,
+     {
+      "title": "Back to the Van",
+      "folder": "Back to the Van",
+      "author": "Manuel Schlagintweit",
+      "year": "2017_SS",
+      "status": 1
+  } 
+    
 ]
