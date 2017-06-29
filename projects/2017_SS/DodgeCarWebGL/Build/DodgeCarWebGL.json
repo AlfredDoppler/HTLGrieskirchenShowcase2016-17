@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "DodgeCarWebGL.data.unityweb",
+"asmCodeUrl": "DodgeCarWebGL.asm.code.unityweb",
+"asmMemoryUrl": "DodgeCarWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "DodgeCarWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
